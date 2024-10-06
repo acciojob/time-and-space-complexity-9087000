@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	margin: 20px;
+	padding: 0;
+	background-color: #f9f9f9;
+	color: #333;
+}
+
+h1 {
+	text-align: center;
+	color: #2c3e50;
+	font-size: 2.5em;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 1.2em;
+	line-height: 1.6;
+	margin-bottom: 20px;
+}
+
+b {
+	color: #e74c3c;
+	font-weight: bold;
+}
